@@ -1,1 +1,0 @@
-Link: https://ces-ltd.atlassian.net/browse/RETAIL-8026
