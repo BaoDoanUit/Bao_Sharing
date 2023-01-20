@@ -1,0 +1,36 @@
+# to exclude Obsidian workspace settings (including plugin and hotkey configurations)
+.obsidian/*
+
+<<<<<<< HEAD
+=======
+# OR only to exclude workspace cache
+.obsidian/workspace/*
+>>>>>>> c7985d2ea8548b10845931973b93b50e0270dd5d
+
+# Exclude plugins
+.obsidian/plugins/*
+
+<<<<<<< HEAD
+=======
+# Exclude consultant specific files "personal"
+05*-*Personal/
+
+# Exclude Day Planner directory placed in vault root
+Day*Planners/*
+
+>>>>>>> c7985d2ea8548b10845931973b93b50e0270dd5d
+# This file is used to keep track of last auto backup/pull
+.obsidian-git-data
+
+# Exclude Untitled Notes
+Untitled*
+# Exclude "bad" names
+null*
+
+# Add below lines to exclude OS settings and caches
+.trash/
+<<<<<<< HEAD
+.DS_Store
+=======
+.DS_Store
+>>>>>>> c7985d2ea8548b10845931973b93b50e0270dd5d
