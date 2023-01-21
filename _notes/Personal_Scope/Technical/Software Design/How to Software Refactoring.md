@@ -19,7 +19,7 @@ Writing software is complex...
 
 As your software grows, complexity increases
 ![[Chart_Lifespan_Software.png]]
-
+<img src="Excalidraw/Refactoring Software/Chart_Lifespan_Software.png">
 Complexity is the root of all evil
 - **Readability:** It makes it hard to understand and reason about a program
 - **Reliability:** Hard to reason about the program -> hard to debug
